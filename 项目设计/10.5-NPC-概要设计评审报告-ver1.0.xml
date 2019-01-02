@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="Alice-拯救你的孤独" 项目标识="0180929" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>NPC2018111512</文件标识>
+			<当前版本>ver1.0</当前版本>
+			<作者>
+				<姓名>李迪安</姓名>
+				<学号>2015011171</学号>
+				<团队>NPC</团队>
+			</作者>
+			<完成日期>2018-11-15</完成日期>
+			<版本更新信息><font face="仿宋_GB2312" xmlns="http://www.w3.org/1999/xhtml">2018-11-15 ver1.0第一次编写完成</font></版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>Alice-拯救你的孤独</标题>
+	<组织名称>NPC</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>王世琦</主持人>
+	<参加人><div xmlns="http://www.w3.org/1999/xhtml">王世琦 项目经理</div>
+<div xmlns="http://www.w3.org/1999/xhtml">开发组：翁培钧 裴骕 吴凡 张涛 刘青松 </div>
+<div xmlns="http://www.w3.org/1999/xhtml">质保组：张蕊 彭佳琪 黄杨明</div>
+<div xmlns="http://www.w3.org/1999/xhtml">配置组：李迪安 韩定 邱弘毅 孙伊凡</div>
+<div xmlns="http://www.w3.org/1999/xhtml">用户组：卢玥 徐洋 张晓妘</div></参加人>
+	<地点>北京信息科技大学教二楼 407室</地点>
+	<日期>2018-11-15</日期>
+	<提交内容>《10-NPC-概要设计评审报告-ver2.0.pdf》</提交内容>
+	<评审项与结论>
+		<要素>构架</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">所设计的架构，清楚表明了系统与系统之间，模块与模块之间的关系。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">所设计模块化/对象化。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">提取了参数配置信息。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">对模块/对象的部署设计。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">采用向对象，有类图。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml"> </div></问题和对策>
+	<要素>界面</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">界面互相一致，与其他模块一致，和需求一致。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">界面提供所需要信息。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">说明个界面之间的关系。</div></评审结果><问题和对策></问题和对策><要素>功能</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">对每一个功能模块进行分层次说明，并给出之间的关系。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">对每一个模块进行概要算法。</div></评审结果><问题和对策></问题和对策><要素>接口</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">说明了系统，子系统的内部接口</div>
+<div xmlns="http://www.w3.org/1999/xhtml">说明了与外部系统的接口</div>
+<div xmlns="http://www.w3.org/1999/xhtml">说明了与硬件系统的接口</div></评审结果><问题和对策></问题和对策><要素>可维护性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">能提供错误检测和恢复。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">考虑非正常情况。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">所有错误情况被完整和准确的说明。</div></评审结果><问题和对策></问题和对策><要素>安全性</要素><评审结果>是否有专门的安全设计</评审结果><问题和对策></问题和对策><要素>规范性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">采用统一的文档编写标准。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">数据元素，流程和对象的命名和使用在整套系统和外部接口之间是否一致。</div></评审结果><问题和对策></问题和对策><要素>可追溯性</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">能追溯到需求说明书的每一个需求。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">能追溯到原来确定的权衡因素。</div></评审结果><问题和对策></问题和对策></评审项与结论>
+	<总结><div xmlns="http://www.w3.org/1999/xhtml">项目在概要设计上的需求规定和基本设计概念和处理的流程和结构清晰，功能需求与个部分程序的关系明确。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">用户接口，外部接口和内部接口表达清晰。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">概要设计说明评审优秀。</div></总结>
+	<签字>王世琦</签字>
+	<附件>
+		<其他材料>《10-NPC-概要设计说明书-ver1.0-pdf》</其他材料>
+		<评审记录><div xmlns="http://www.w3.org/1999/xhtml">流程一：主审人员，项目负责人，软件测试人员组成评审小组通过阅读和讨论概要设计的内容，对概要设计进行评审。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">流程二：召开概要设计评审会。在会上，首先由该开发组组长介绍总体设计 包括需求概述和软件结构 然后由各个模块的具体设计者分别对模块设计进行说明，在此过程中小组成员提出问题，展开讨论，审查是否存在错误。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">流程三：在讨论结束后整理出一份《概要设计评审报告》。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">流程四：若发现错误较多或重大错误，在改正后，再次组织概要设计评审。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></评审记录>
+	</附件>
+</评审报告>

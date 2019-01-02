@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="15.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="Alice-拯救你的孤独" 项目标识="0180929" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>NPC20181115</文件标识>
+			<当前版本>Ver0.1</当前版本>
+			<作者>
+				<姓名>裴骕</姓名>
+				<学号>2015011203</学号>
+				<团队>NPC</团队>
+			</作者>
+			<完成日期>2018-11-15</完成日期>
+			<版本更新信息>2018-11-15 ver0.1编写完成</版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>Alice-拯救你的孤独</标题>
+	<组织名称>NPC软件开发团队</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>裴骕</主持人>
+	<参加人>项目经理、需求方负责人、软件开发组组长</参加人>
+	<地点>北京信息科技大学教二楼 407室</地点>
+	<日期>2018-11-15</日期>
+	<提交内容>《11-NPC-详细设计评审报告-ver1.0.pdf》</提交内容>
+	<评审项与结论>
+		<要素>软件架构设计</要素>
+		<评审结果><div xmlns="http://www.w3.org/1999/xhtml">应用架构的逻辑清晰、关系明确、层次合理。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">设计易于理解、易于修改、易于测试和调试，稳定性较好，方便用户未来的系统维护。</div></评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">无</div></问题和对策>
+	<要素>软件功能设计</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">详细设计中包含了本次迭代的全部需求。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体">按此机制实现不违背需求、交互设计的风险。</font></div></评审结果><问题和对策>无</问题和对策><要素>软件接口设计</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">对外部的接口依赖提出</div>
+<div xmlns="http://www.w3.org/1999/xhtml">提供外部的接口设计完整</div></评审结果><问题和对策>无</问题和对策><要素>数据库设计</要素><评审结果><div xmlns="http://www.w3.org/1999/xhtml">数据库设计满足软件设计的一般要求。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">数据库设计与其他设计内容一致。</div></评审结果><问题和对策>无</问题和对策></评审项与结论>
+	<总结>详细设计基本合理，随着开发进行，逐步细化。</总结>
+	<签字>王世琦、卢玥、裴骕</签字>
+	<附件>
+		<其他材料>无</其他材料>
+		<评审记录>2018-11-15 详细设计评审 一次</评审记录>
+	</附件>
+</评审报告>
